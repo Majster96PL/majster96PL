@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ I have been working on my own projects in Java and using the Spring framework. <br>My goal is to further develop my skills in a professional environment.<br>📚 I'm currently learning JUnits<br>🎯 Goals: Dockers, Kubernetes</p>
+<p align="center">✨ I have been working on my own projects in Java and using the Spring framework. <br>My goal is to further develop my skills in a professional environment.<br>📚 I'm currently learning JUnits<br>🎯 Goals: Docker, Kubernetes</p>
 
 ###
 
